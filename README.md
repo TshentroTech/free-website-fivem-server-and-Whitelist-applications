@@ -4,11 +4,9 @@
 
 - https://ko-fi.com/tshentrotech
 
-## My Tebex Store
+# My Tebex Store
 
-If you'd like to support me, you can buy anything from my store:
-
-- https://tshentro.tebex.io
+## If you would like to support me, you can take a look at my scripts: https://tshentro.tebex.io
 
 ## YouTube
 
