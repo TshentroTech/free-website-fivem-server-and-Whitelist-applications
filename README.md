@@ -1,9 +1,5 @@
 # Free FiveM Website + Whitelist Applications
 
-## Support My Development Time
-
-- https://ko-fi.com/tshentrotech
-
 # My Tebex Store
 
 ## If you would like to support me, you can take a look at my scripts: https://tshentro.tebex.io
@@ -135,6 +131,6 @@ If your production database already has tables, you may need to baseline migrati
 - Support: No
 - Download: [GitHub repository](https://github.com/TshentroTech/free-website-fivem-server-and-Whitelist-applications)
 
-## License
+## Support My Development Time
 
-This project is source-available under a custom non-commercial license. See `LICENSE` for full terms.
+- https://ko-fi.com/tshentrotech
